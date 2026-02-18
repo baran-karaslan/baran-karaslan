@@ -13,7 +13,7 @@ I specialize in integrating **Generative AI workflows**, **Computer Vision**, an
 - **Vision:** Real-time object detection and image processing with **OpenCV**.
 
 ### 💻 Software Development
-- **Languages:** Python, JavaScript, C#, Assembly, MATLAB, SQL.
+- **Languages:** Python, JavaScript, C#, Assembly, MATLAB, SQL, C++.
 - **Web:** Modern Frontend development (HTML5, CSS3, JS).
 
 ### ⚡ Engineering & Automation
